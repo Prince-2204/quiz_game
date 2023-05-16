@@ -1,0 +1,12 @@
+Name of the Participant: nameet
+Level of Game: easy
+Name: nameet Score: 20
+Name of the Participant: gungun
+Level of Game: medium
+Name: gungun Score: 14
+Name of the Participant: raja
+Level of Game: hard
+Name: raja Score: 4
+Name of the Participant: Nameet
+Level of Game: easy
+Name: Nameet Score: 20
